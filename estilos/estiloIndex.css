@@ -1,0 +1,10 @@
+body{
+    background-image: url('imagens/fundo-madeira.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+iframe{
+    border-image: url('imagens/frame-iphone.png');
+    max-width: 150px;
+    max-height: 500px; 
+}
