@@ -1,0 +1,14 @@
+body{
+    background-image: url('imagens/fundo-madeira.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div{
+    background-image: url('imagens/frame-iphone.png');
+    width: 330px;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: -15px auto auto auto;
+}
+
