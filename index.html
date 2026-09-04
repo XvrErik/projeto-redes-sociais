@@ -11,16 +11,35 @@
             background-size: cover;
             background-repeat: no-repeat;
         }
-        iframe{
-            width: 200px; 
-            height: 500px;
-            margin: auto;
+        .iphone {
+        position: relative;
+        width: 311px;
+        }
+
+        .iphone iframe {
+        position: absolute;
+        top: 81px;
+        left: 22px;
+        width: 267px;
+        height: 470px;
+        border: 0;
+        }
+
+        .iphone img {
+        width: 100%;
+        position: relative;
+        z-index: 2;
+        pointer-events: none;
         }
     </style>
 </head>
 <body>
-    <iframe src="imagens/frame-iphone.png" >
-        <h1>opss D: ocorreu algun erro ente novamente</h1>
-    </iframe>
+    <div class="iphone">
+        <iframe src="imagens/img3.png">
+            opss ocorreu algum erro 
+        </iframe>
+        <img src="frame-iphone.png">
+    </div>
+
 </body>
 </html>
