@@ -10,9 +10,5 @@ div{
     background-repeat: no-repeat;
     background-size: cover;
     margin: -15px auto auto auto;
+    align-items: center;
 }
-iframe{
-    margin: auto;
-}
-
-
