@@ -16,3 +16,31 @@ iframe{
     border-width: 80px 20px 78px;
     border-image: url('imagens/frame-iphone.png') 80 20 78 20 fill stretch;
 }
+div{
+    position: fixed;
+    right: 20px;
+}
+
+#home{
+    top: 20px;
+}
+
+#youtube{
+    top: 80px;
+}
+
+#github{
+    top: 140px;
+}
+
+#instagram{
+    top: 200px;
+}
+
+#twiter{
+    top: 260px;
+}
+
+#facebook{
+    top: 320px;
+}
