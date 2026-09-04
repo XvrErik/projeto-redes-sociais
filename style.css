@@ -25,6 +25,7 @@ div{
 
 #home{
     top: 20px;
+    width: 50px;
     background-image: url('imagens/logo-home.jpg');
 }
 
