@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
 }
 iframe{
+    margin: auto;
     width: 311px;
     height: 629px;
     box-sizing: border-box;
