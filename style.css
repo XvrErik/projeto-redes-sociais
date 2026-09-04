@@ -23,24 +23,30 @@ div{
 
 #home{
     top: 20px;
+    background-image: url('imagens/logo-home.jpg');
 }
 
 #youtube{
     top: 80px;
+    background-image: url('imagens/logo-youtube.jpg');
 }
 
 #github{
     top: 140px;
+    background-image: url('imagens/logo-github.jpg');
 }
 
 #instagram{
     top: 200px;
+    background-image: url('imagens/logo-instagram.jpg');
 }
 
 #twiter{
     top: 260px;
+    background-image: url('imagens/logo-twitter.jpg');
 }
 
 #facebook{
     top: 320px;
+    background-image: url('imagens/logo-facebook.jpg');
 }
