@@ -4,5 +4,10 @@ body{
     background-repeat: no-repeat;
 }
 iframe{
-    border-image: url('imagens/frame-iphone.png');
+    width: 311px;
+    height: 629px;
+    box-sizing: border-box;
+    border: 80px solid transparent;
+    border-width: 80px 20px 78px;
+    border-image: url('imagens/frame-iphone.png') 80 20 78 20 fill stretch;
 }
