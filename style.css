@@ -4,5 +4,5 @@ body{
     background-repeat: no-repeat;
 }
 iframe{
-    border-image: url('imagens/frame-iphone.png')
+    border-image: url('imagens/frame-iphone.png');
 }
