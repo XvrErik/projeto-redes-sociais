@@ -21,8 +21,9 @@ div{
     right: 20px;
 }
 img{
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
 }
 
 #home{
@@ -30,26 +31,26 @@ img{
 }
 
 #youtube{
-    top: 80px;
+    top: 90px;
     background-image: url('imagens/logo-youtube.jpg');
 }
 
 #github{
-    top: 140px;
+    top: 160px;
     background-image: url('imagens/logo-github.jpg');
 }
 
 #instagram{
-    top: 200px;
+    top: 230px;
     background-image: url('imagens/logo-instagram.jpg');
 }
 
 #twiter{
-    top: 260px;
+    top: 300px;
     background-image: url('imagens/logo-twitter.jpg');
 }
 
 #facebook{
-    top: 320px;
+    top: 370px;
     background-image: url('imagens/logo-facebook.jpg');
 }
