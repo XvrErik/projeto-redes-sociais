@@ -17,13 +17,20 @@ iframe{
     border-image: url('imagens/frame-iphone.png') 80 20 78 20 fill stretch;
 }
 div{
+    top: 15px;
     position: fixed;
-    right: 20px;
+    right: 9px;
+}
+a{
+    display: grid;
+    margin-bottom: 10px;
+
 }
 img{
     width: 60px;
     height: 60px;
     object-fit: cover;
+    border-radius: 50%;
 }
 
 #home{
@@ -32,25 +39,23 @@ img{
 
 #youtube{
     top: 90px;
-    background-image: url('imagens/logo-youtube.jpg');
 }
 
 #github{
     top: 160px;
-    background-image: url('imagens/logo-github.jpg');
 }
 
 #instagram{
     top: 230px;
-    background-image: url('imagens/logo-instagram.jpg');
+
 }
 
 #twiter{
     top: 300px;
-    background-image: url('imagens/logo-twitter.jpg');
+
 }
 
 #facebook{
     top: 370px;
-    background-image: url('imagens/logo-facebook.jpg');
+
 }
